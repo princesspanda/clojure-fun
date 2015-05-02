@@ -9,8 +9,8 @@
 
 # What You Can Expect From Me
 * Each lesson will be a combination of me talking plus breaks to work through exercises
-* The material will draw from the [ClojureBridge curriculum](https://github.com/ClojureBridge/curriculum) as well as [Clojure Programming](http://shop.oreilly.com/product/0636920013754.do)
-* The lesson plans will live in this repo, so feel free to refer back to the lessons if you want to review.
+* The material will draw from the [ClojureBridge curriculum](https://github.com/ClojureBridge/curriculum) as well as [Clojure Programming](http://shop.oreilly.com/product/0636920013754.do) (Emerick, Carper, Grand)
+* The lesson plans will live in this repo, so feel free to refer back to the lessons if you want to review or missed a day.
 * As much as possible, I will try to draw on examples from FC apps
 
 # What I Expect From You
@@ -20,4 +20,4 @@
 * **Give me feedback**  We're trying something new, so we can shape the format to meet our needs.  
 
 # What You'll Need
-Please refer to the [Getting Started] page to get your environment & editor set up.
+Please refer to the [Installation Instructions](https://github.com/princesspanda/clojure-fun/blob/master/installation-instructions.md) to get your environment & editor set up.
