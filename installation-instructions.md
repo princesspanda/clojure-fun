@@ -15,3 +15,7 @@
 As of May 1, 2015, the current version of IDEA is 14.1, so you will use the Cursive url for 14.1 (in the section called "Installing Cursive")
 
 Feel free to grab me if you run into trouble with the install steps.
+
+When you're done installing everything, you should be able to do:
+* In the Terminal, ````lein new app clojure-fun````
+* Start IntellijIDEA --> Right-click on project.clj --> Select "Run 'REPL for clojure-fun'"
